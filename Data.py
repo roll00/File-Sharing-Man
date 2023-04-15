@@ -23,7 +23,7 @@ class Data:
  ├ /speedtest - Untuk Mengetes kecepatan server bot
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
-👨‍💻 Develoved by </b><a href='https://t.me/Lunatic0de/101'>@Lunatic0de</a>
+👨‍💻 Creator Bot by </b><a href='https://t.me/buaya_store'>@buaya_store</a>
 """
 
     close = [
@@ -51,7 +51,6 @@ class Data:
 
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
 
-👨‍💻 Develoved by </b><a href='https://t.me/Lunatic0de/101'>@Lunatic0de</a>
+👨‍💻 Order Bot Go Pm me</b><a href='https://t.me/Buaya_store'>@buaya_store</a>
 """
